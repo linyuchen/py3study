@@ -61,3 +61,9 @@
 [字符串字面量语法](py3.6/strformat.py)
 
 [变量支持类型提示](py3.6/var_type.py)
+
+# Python3.7
+
+[dataclass，更方便的初始化类成员](py3.7/dataclass.py)
+
+[内置breakpoint()函数][py3.7/breakpoint.py]
