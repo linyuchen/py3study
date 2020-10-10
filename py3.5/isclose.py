@@ -1,8 +1,8 @@
 # -*- coding:UTF-8 -*-
 import math
 
-__author__ = u"linyuchen"
-__doc__ = u"""
+__author__ = "linyuchen"
+__doc__ = """
 math模块新增isclose()，来判断近似相等
 """
 

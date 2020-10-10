@@ -1,7 +1,7 @@
 # -*- coding:UTF-8 -*-
 
-__author__ = u"linyuchen"
-__doc__ = u"""
+__author__ = "linyuchen"
+__doc__ = """
 print变成了函数
 """
 

@@ -1,7 +1,7 @@
 # -*- coding:UTF-8 -*-
 
-__author__ = u"linyuchen"
-__doc__ = u"""
+__author__ = "linyuchen"
+__doc__ = """
 变量注释语法, 用法与Python3.5的typing一致
 """
 

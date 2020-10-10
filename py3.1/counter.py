@@ -1,8 +1,8 @@
 # -*- coding:UTF-8 -*-
 from collections import Counter
 
-__author__ = u"linyuchen"
-__doc__ = u"""
+__author__ = "linyuchen"
+__doc__ = """
 对序列的元素计数
 """
 

@@ -1,7 +1,7 @@
 # -*- coding:UTF-8 -*-
 import argparse
-__author__ = u"linyuchen"
-__doc__ = u"""
+__author__ = "linyuchen"
+__doc__ = """
 新增命令行解析模块argparse
 """
 

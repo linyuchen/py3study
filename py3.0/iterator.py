@@ -1,7 +1,7 @@
 # -*- coding:UTF-8 -*-
 
-__author__ = u"linyuchen"
-__doc__ = u"""
+__author__ = "linyuchen"
+__doc__ = """
 一些函数不再返回列表，而是返回了迭代器
 迭代器更加节约内存，速度也更快
 

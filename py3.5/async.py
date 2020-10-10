@@ -1,7 +1,7 @@
 # -*- coding:UTF-8 -*-
 import types
-__author__ = u"linyuchen"
-__doc__ = u"""
+__author__ = "linyuchen"
+__doc__ = """
 async/await语法的异步协同
 """
 
@@ -10,10 +10,12 @@ async/await语法的异步协同
 def wait():
     yield
 
+
 async def f1():   # 返回一个awaitable对象
     print("1start")
     await wait()  # 除非再次调用send，否则后面的代码不会执行
     print("1end")
+
 
 async def f2():
     print("2start")
@@ -25,6 +27,7 @@ def run(f):
         f.send(None)
     except StopIteration:
         pass
+
 
 f1 = f1()
 f2 = f2()

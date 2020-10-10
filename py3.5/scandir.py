@@ -1,8 +1,8 @@
 # -*- coding:UTF-8 -*-
 import os
 
-__author__ = u"linyuchen"
-__doc__ = u"""
+__author__ = "linyuchen"
+__doc__ = """
 os.scandir，更快的遍历目录，os.walk内部也用os.scandir实现了
 
 返回的是个生成器

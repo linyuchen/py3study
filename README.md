@@ -1,4 +1,4 @@
-# 简要的学习一下Python3的新特性
+# 简要的学习一下Python3必须知道的新特性
 
 ## Python3.0
 
@@ -54,8 +54,24 @@
 * [dataclass，更方便的初始化类成员](py3.7/dataclass.py)
 
 * [内置breakpoint()函数，自带pdb调试](py3.7/breakpoint.py)
-* dic对象会保持插入时的顺序
+* dict对象会保持插入时的顺序
 
 
+## Python3.8
 
-更多详情见[官网](https://docs.python.org/zh-cn/3.7/whatsnew/3.7.html)
+* [:=, 表达式直接赋值](py3.8/assignment_expressions.py)
+
+* [仅限位置形参](py3.8/positional_only_parameters.py)
+
+* [f-string中直接用=输出变量值](py3.8/fstring.py)
+
+
+## Python3.9
+
+* [dict增加合并运算符 |](py3.9/dict_merge.py)
+
+* [类型注解支持内置的标准类型，如list和dict](py3.9/type_hint.py)
+
+* [str增加removeprefix和removesuffix方法](py3.9/str_remove_pre_suf.py)
+
+更多详情见[官网](https://docs.python.org/zh-cn/3.9/whatsnew/index.html)

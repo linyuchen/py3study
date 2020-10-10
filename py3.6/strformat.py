@@ -1,7 +1,7 @@
 # -*- coding:UTF-8 -*-
 
-__author__ = u"linyuchen"
-__doc__ = u"""
+__author__ = "linyuchen"
+__doc__ = """
 新的字符串格式化语法
 """
 
