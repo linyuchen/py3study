@@ -74,4 +74,11 @@
 
 * [str增加removeprefix和removesuffix方法](py3.9/str_remove_pre_suf.py)
 
-更多详情见[官网](https://docs.python.org/zh-cn/3.9/whatsnew/index.html)
+
+## Python3.10
+
+* [比if else更好用的匹配模式match case](py3.10/match_case.py)
+
+* [新的联合类型运算符 |](py3.10/new_union.py)
+
+更多详情见[官网](https://docs.python.org/zh-cn/3/)
