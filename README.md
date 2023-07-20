@@ -81,4 +81,10 @@
 
 * [新的联合类型运算符 |](py3.10/new_union.py)
 
+## Python3.11
+
+* [TypeDict新增可选和必须](py3.11/typedict_required.py)
+* 
+* [typing新增Self，表示类实例本身](py3.11/self_type.py)
+
 更多详情见[官网](https://docs.python.org/zh-cn/3/)
