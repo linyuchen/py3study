@@ -84,7 +84,11 @@
 ## Python3.11
 
 * [TypeDict新增可选和必须](py3.11/typedict_required.py)
-* 
+ 
 * [typing新增Self，表示类实例本身](py3.11/self_type.py)
+ 
+* [新增库tomllib，用于处理toml格式文件](py3.11/toml.py)
+
+* [enum新增StrEnum，用于限制枚举值为字符串](py3.11/str_enum.py)
 
 更多详情见[官网](https://docs.python.org/zh-cn/3/)
