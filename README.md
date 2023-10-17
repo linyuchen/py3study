@@ -32,7 +32,7 @@
 
 这是革命性的一个版本啊
 
-* [语法上支持协程, aync await](py3.5/async.py)
+* [语法上支持协程, async await](py3.5/async.py)
 * [支持byte类型的格式化操作](py3.5/byte_format.py)
 * [系统调用中断信号时，可以自动重试](py3.5/EINTR_retry.py)
 * [math新增判断近似相等方法isclose](py3.5/isclose.py)
